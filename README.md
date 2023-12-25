@@ -1,14 +1,19 @@
 # Best Freebies
 Tired of missing out on awesome freebies just because you didn't check the right website at the right time? 
 
-You're not alone! That's why I created this curated list of websites that offer weekly or monthly freebie items that are normally paid items; from source code, games and game assets to ebooks and software. No more endless searching, your new free stuff awaits! 
+You're not alone! That's why I created this curated list of websites that offer weekly or monthly freebie items that are normally paid items; from source code, games and game assets to ebooks and software. No more endless searching, your new free stuff awaits! I will try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
 
-I will try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
+What you'll find here:
 
+   - A diverse collection of websites: From popular brands to hidden gems, I've scoured the internet to bring you a variety of freebie options across different categories. Whether you're a beauty enthusiast, a tech buff, or just love a good deal, there's something for everyone.
+   - Clear and concise listings: Each website entry includes all the essential information you need, including the type of freebies offered, the frequency of updates, and any specific requirements or deadlines. No more wasting time deciphering confusing website copy!
+   - Regular updates: This list is a living document, constantly being refreshed with new and exciting freebie opportunities. Check back often to stay ahead of the curve and never miss out on a sweet deal!
+    
 # Table of Contents:
-- [Source Code](#source-code)
-- [Gaming](#gaming)
-- [Contributing](#how-to-contribute)
+- [Source Code](#source-code) - source code and assets
+- [Gaming](#gaming) - Games and Game Assets
+- [Contributing](#how-to-contribute) - How to Contribute
+- [Sponsor Us](#sponsorship) - Donate to the cause
 
 # Join the fun!
 
@@ -18,9 +23,9 @@ I will try my best to maintain these lists and keep them all up-to-date but if y
   
 # Source Code
 This is a list of source code that has freebie giveaways listed on their site either weekly or monthly.
- - [Codester](https://www.codester.com/free/) - Freebies every week! Discover more then 15.000 web development resources created by our global community of developers and designers. Start creating amazing web sites and apps today.
- - [CodeCanyon](https://codecanyon.net/) - One of the biggest marketplaces on the internet, you can get monthly freebies at the bottom of the home page.
- - [piecex](https://www.piecex.com/eng/products/free) - Always free Community code and weekly giveaways of paid source code
+ - [Codester](https://www.codester.com/free/) - Codester is an online marketplace where developers and designers can buy and sell various web development assets. Weekly freebie items
+ - [CodeCanyon](https://codecanyon.net/) - One of the biggest marketplaces on the internet to buy and sell code, you can get monthly freebies at the bottom of the home page.
+ - [piecex](https://www.piecex.com/eng/products/free) - PieceX is an AI-powered marketplace that connects buyers and sellers of software source code. With an always free Community code and weekly giveaways of paid source code.
 
   # Gaming
   This is a list of gaming sites that has freebie games or giveaway game assets listed on their site either weekly or monthly.
