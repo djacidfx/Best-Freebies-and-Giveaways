@@ -64,7 +64,10 @@ Just a gentle reminder: Try not to submit your own project. Instead, wait for so
 <a href="https://dev.to/djacidfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="djacidfx" height="30" width="40" /></a>
 <a href="https://twitter.com/wildcatstudio18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wildcatstudio18" height="30" width="40" /></a>
 <a href="https://fb.com/therockinrev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="therockinrev" height="30" width="40" /></a>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=djacidfx&label=Profile%20views&color=0e75b6&style=flat" alt="djacidfx" /> </p>
 <a href="https://www.youtube.com/c/@wildcatsstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wildcatsstudio" height="30" width="40" /></a>
 <a href="https://mywild.work/rss/latest-posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mywild.work/rss/latest-posts" height="30" width="40" /></a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djacidfx&show_icons=true&locale=en" alt="djacidfx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djacidfx&show_icons=true&locale=en&layout=compact" alt="djacidfx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djacidfx&" alt="djacidfx" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djacidfx&label=Profile%20views&color=0e75b6&style=flat" alt="djacidfx" /> </p>
