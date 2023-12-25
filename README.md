@@ -1,4 +1,5 @@
-# Best Freebies <p align="left"> <img src="https://komarev.com/ghpvc/?username=djacidfx&label=Profile%20views&color=0e75b6&style=flat" alt="djacidfx" /> </p>
+# Best Freebies From Around The Internet
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djacidfx&label=Profile%20views&color=0e75b6&style=flat" alt="djacidfx" /> </p>
 Tired of missing out on awesome freebies just because you didn't check the right website at the right time? 
 
 You're not alone! That's why I created this curated list of websites that offer weekly or monthly freebie items that are normally paid items; from source code, games and game assets to ebooks and software. No more endless searching, your new free stuff awaits! I will try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
