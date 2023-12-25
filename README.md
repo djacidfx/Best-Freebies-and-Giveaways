@@ -1,6 +1,10 @@
 # Best Freebies
-A curated list of some of freebie and giveawys from around the internet.I try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
-
+A curated list of some of websites that have freebie items and giveawys from around the internet. I try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
+# Table of Contents:
+- [Source Code](#source-code)
+- [Gaming](#gaming)
+- [Contributing](#how-to-contribute)
+  
 # Source Code
 This is a list of source code that has freebie giveaways listed on their site either weekly or monthly.
  - [Codester](https://www.codester.com/free/) - Freebies every week! Discover more then 15.000 web development resources created by our global community of developers and designers. Start creating amazing web sites and apps today.
@@ -20,14 +24,14 @@ If you would like to add something to our list, make a correction, found a broke
 
     Try to add one link per Pull Request if possible to avoide errors.
         Make sure the PR title is in the format of Add project-name.
-        Write down the reason why the library is awesome.
-    Add the link: * [Website](http://example.com/) - A short description ends with a period.
-        Keep descriptions concise and short.
+    Add the link: * [Website](http://example.com/) - A short description of the site and ends with a period.
+        Describe if the giveaway is weekly, monthly, one time, ect.
+        Keep descriptions concise and short as possible.
     Add a section if needed.
         Add the section description.
         Add the section title to Table of Contents.
     Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
-    Don't mention Python in the description as it's implied.
+    Describe where you can find or how to get the freebies
     Check your spelling and grammar.
     Remove any trailing whitespace.
 
