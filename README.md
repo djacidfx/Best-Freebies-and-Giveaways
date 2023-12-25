@@ -1,4 +1,4 @@
-# Best Freebies
+# Best Freebies <p align="left"> <img src="https://komarev.com/ghpvc/?username=djacidfx&label=Profile%20views&color=0e75b6&style=flat" alt="djacidfx" /> </p>
 Tired of missing out on awesome freebies just because you didn't check the right website at the right time? 
 
 You're not alone! That's why I created this curated list of websites that offer weekly or monthly freebie items that are normally paid items; from source code, games and game assets to ebooks and software. No more endless searching, your new free stuff awaits! I will try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
@@ -58,3 +58,12 @@ Just a gentle reminder: Try not to submit your own project. Instead, wait for so
 <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 <span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 <span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/djacidfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="djacidfx" height="30" width="40" /></a>
+<a href="https://twitter.com/wildcatstudio18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wildcatstudio18" height="30" width="40" /></a>
+<a href="https://fb.com/therockinrev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="therockinrev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@wildcatsstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wildcatsstudio" height="30" width="40" /></a>
+<a href="https://mywild.work/rss/latest-posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mywild.work/rss/latest-posts" height="30" width="40" /></a>
+</p>
