@@ -34,7 +34,7 @@ This is a list of source code that has freebie giveaways listed on their site ei
 
 # How to Contribute
 
-If you would like to add something to our list, make a correction, found a broken link or just want to leave us feedback please, ensure your pull request adheres to the guidelines below and if you found this post useful and/or interesting you can share it using the buttons below or copy the link and post it on your favorite social platform. If you would like to support what we do here you can find out how below the comment section for details. 
+If you would like to add something to our list, make a correction, found a broken link please, ensure your pull request adheres to the guidelines below and if you found this post useful and/or interesting you can share it using the buttons below or copy the link and post it on your favorite social platform. If you would like to support what we do here you can find out how below the comment section for details. 
 
 # Guidelines
 
