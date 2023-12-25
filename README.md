@@ -1,9 +1,20 @@
 # Best Freebies
-A curated list of some of websites that have freebie items and giveawys from around the internet. I try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
+Tired of missing out on awesome freebies just because you didn't check the right website at the right time? 
+
+You're not alone! That's why I created this curated list of websites that offer weekly or monthly freebie items that are normally paid items; from source code, games and game assets to ebooks and software. No more endless searching, your new free stuff awaits! 
+
+I will try my best to maintain these lists and keep them all up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to contribute so we can grow our community. 
+
 # Table of Contents:
 - [Source Code](#source-code)
 - [Gaming](#gaming)
 - [Contributing](#how-to-contribute)
+
+# Join the fun!
+
+   - Star this repository: Stay in the loop with new additions and updates by starring this repository. That way, you'll be notified as soon as we add new freebie-tastic website!
+   - Contribute your finds: Have you discovered a hidden gem of a website offering amazing freebies? Share it with the community by creating a pull request, see [Contributing](#how-to-contribute) guideline below! Let's build a comprehensive resource for freebie lovers together.
+   - Spread the word: Tell your friends, family, and fellow bargain hunters about this awesome resource! The more people know about Best Freebies from Around the Internet, the merrier (and the more free stuff we can all enjoy!).
   
 # Source Code
 This is a list of source code that has freebie giveaways listed on their site either weekly or monthly.
